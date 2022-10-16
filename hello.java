@@ -1,14 +1,7 @@
-Class java
+class java
 {
- Public static void (args[])
+ public static void main(String[] args)
  {
   System.out.println("Hello World");
- 
  }
-}exit
-quit
-
-wq
-zz
-q!
-
+}
